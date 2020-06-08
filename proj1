@@ -1,0 +1,7 @@
+public class U
+{
+	public void test()
+	{
+		System.out.println("testing class U");
+	}
+}
