@@ -1,0 +1,10 @@
+public class MainClass
+{
+	public static void main(String[] args)
+	{
+		System.out.println("this is main class");
+
+		U u1 = new U();
+		u1.test();
+	}
+}
